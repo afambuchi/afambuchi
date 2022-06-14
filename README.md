@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Chi Onabolu
-- 👾 I work as a Web Developer using Drupal and PHP
-- 👀 I’m interested in learning to code without referring to google or notes every step of the way
-- 🌱 I’m currently learning to solidify my Python, HTML, CSS, and Javascript
+- 👾 I work as a Drupal Web Developer and aim to be a full-stack developer
+- 👀 I’m interested in working on projects to build a portfolio
+- 🌱 I’m currently learning to solidify my Python, HTML5, CSS3, Javascript, Bootstrap, and React ( and of course Drupal)
 - 💞️ I’m looking to collaborate on any website projects and basic coding games
 
+My current project is a custom Drupal theme that will be uploaded and available for use once completed
 
 <!---
 chionabolu/chionabolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

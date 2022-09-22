@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to solidify my Python, HTML5, CSS3, Javascript, Bootstrap, and React ( and of course Drupal)
 - 💞️ I’m looking to collaborate on any website projects and basic coding games
 
-My current project is a custom Drupal theme that will be uploaded and available for use once completed
+My current project is a personal portfolio to showcase my current projects and resume.
 
 <!---
 chionabolu/chionabolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

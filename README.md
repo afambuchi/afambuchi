@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [chionabolu.com/resume](chionabolu.com/resume)
 
-- ⚡ Fun fact **I'm a gamer and I love to gaming and photography**
+- ⚡ Fun fact **I'm a gamer and photographer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

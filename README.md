@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chionabolu&label=Profile%20views&color=0e75b6&style=flat" alt="chionabolu" /> </p>
 
-- 🔭 I’m currently working on [My personal portfolio website](afambuchi.com)
+- 🔭 I’m currently working on [My personal portfolio website](https://www.afambuchi.com)
 
 - 🌱 I’m currently learning **Javascript, React**
 
-- 👨‍💻 All of my projects are available at [chionabolu.com](chionabolu.com)
+- 👨‍💻 All of my projects are available at [chionabolu.com](afambuchi.com)
 
-- 📄 Know about my experiences [chionabolu.com/resume](chionabolu.com/resume)
+- 📄 Know about my experiences [chionabolu.com/resume](afambuchi.com/aboutme)
 
 - ⚡ Fun fact **I'm a gamer and photographer**
 

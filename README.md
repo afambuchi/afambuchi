@@ -30,6 +30,11 @@
 </p>
 - Visit [MutaSpace](https://afambuchi.com) to explore blogs, trainings, projects, and some of my photography portfolio 💡  
 
+**How to Learn More about Muta Space**
+## Connect with Us
+- **Website:** [MutaSpace](https://mutaspace.com)
+- **Community Discord:** [Join Us](https://discord.gg/aXNyBRK8)
+- **Email:** support@mutaspace.com
 ---
 
 ## 🎨 **Hobbies & Passions**

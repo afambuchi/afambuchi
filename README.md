@@ -13,7 +13,8 @@
 
 ## 📚 **What I’m Currently Learning**
 - Deep diving into **firewall technologies** and advanced **network security** concepts 🔐  
-- Exploring new ways to make **tech education engaging** 🎓  
+- Exploring new ways to make **tech education engaging** 🎓
+- Perfecting my **technical writing** ✍️
 - Strengthening my **coding and cybersecurity expertise** through certifications and projects 💻  
 
 ---

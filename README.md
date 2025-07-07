@@ -38,7 +38,7 @@
 ---
 
 ## 🎨 **Hobbies & Passions**
-- 🎥 Filmmaking & photography 
+- 🎥 Photography & Videography 
 - 🎮 Gaming
 - 🌲 Exploring nature and hiking trails  
 - 🧘‍♀️ Finding balance through cooking, fitness and mindfulness  

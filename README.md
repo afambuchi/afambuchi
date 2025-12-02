@@ -1,47 +1,59 @@
-<h1 align="center"> 👋🏽 Hello World! Afambu Chi (Igbo for My Name is Chi) <img align="right" alt="black girl magic" width="400" src="illustration gifs, minimal illustration, line illustration, gif, black girls, black girls illustration gif , minimal, sweater, gifs illustration, flower illustration gif, flowers, black girl illustration.gif"> </h1>
-<h3 align="center"> Welcome to my corner of the digital universe! Here you'll find bits and bytes of my journey through technology, education, and creativity.
+<h1 align="center"> 👋🏽 Hi, I'm Chi 
+Cybersecurity Analyst | SOC Lab Builder | Cybersecurity Instructor
+<img align="right" alt="black girl magic" width="400" src="illustration gifs, minimal illustration, line illustration, gif, black girls, black girls illustration gif , minimal, sweater, gifs illustration, flower illustration gif, flowers, black girl illustration.gif"> </h1>
+<h3 align="center"> I specialize in hands-on security operations, identity management, network defense, and teaching cybersecurity concepts in a clear and actionable way. I am currently building a Proxmox-based SOC Lab and documenting the entire project on GitHub and LinkedIn to create a full, realistic enterprise-style environment for detection engineering and security analytics.
  </h3>
+ 
+---
 
-
-
-## 🌱 **What I’m Currently Working On**
-- Building a **Security+ Course** for non-technical users 🛡️  
-- Teaching **firewalls and network security** using Cisco NetAcad 🔒  
-- Growing my brand, [MutaSpace](https://afambuchi.com), into a hub for tech learning and community 📈  
+## 🔥 What I'm Working On Right Now
+- Building a fully segmented SOC environment using Proxmox VE
+- Deploying Windows Server as a Domain Controller for the `soc.lab` domain
+- Expanding an internal network with firewall-based routing and NAT
+- Preparing a Wazuh SIEM and FleetDM visibility stack
+- Creating detection rules, Sysmon coverage, and KQL-based investigation queries
+- Writing documentation to support students and new analysts
 
 ---
 
-## 📚 **What I’m Currently Learning**
-- Deep diving into **firewall technologies** and advanced **network security** concepts 🔐  
-- Exploring new ways to make **tech education engaging** 🎓
-- Perfecting my **technical writing** ✍️
-- Strengthening my **coding and cybersecurity expertise** through certifications and projects 💻  
+## 🛠 Technical Skills
+
+**Security:**  
+Active Directory, SIEM, Sysmon, FleetDM, IAM, Windows Security, Linux Hardening, Firewalls, Event Log Analysis
+
+**Tools:**  
+Proxmox, Wazuh, FleetDM, Wireshark, PowerShell, KQL, Python, nftables, netplan
+
+**Platforms:**  
+Linux (Ubuntu), Windows Server, Windows 11, Azure
+
+**Core Competencies:**  
+SOC Operations, Incident Response, Detection Engineering, Network Segmentation, Troubleshooting, Documentation, Teaching
 
 ---
 
-## 🖥️ **Where to Find My Portfolio/Projects**
-- **Portfolio:** [Check out my work!](https://afambuchi.com) 🌐  
-- **GitHub Repos:** You're already here! Browse around! 🗂️  
+## 📌 Featured Projects
+
+### 🔐 SOC Lab (Active Build)
+A full enterprise-style SOC environment deployed on Proxmox VE including a custom Linux firewall, Windows AD, analyst VM, and upcoming SIEM + EDR stack.
+
+### 📘 Cybersecurity Notes
+Documentation and concise study notes covering Windows Logging, IAM, Linux fundamentals, incident response, and cloud security.
+
+### 🧪 KQL Playground
+A set of SOC-focused KQL queries for authentication logs, Sysmon events, and network activity investigations.
+
+### 🐍 Python for Cyber
+Small utilities for log parsing, automation, and event correlation.
+
+### 🎓 Beginner Cyber Labs
+Hands-on exercises designed to teach core SOC and security fundamentals.
 
 ---
 
-## 🤝 **How to Learn More About Me**
-- Connect with me on [LinkedIn](https://linkedin.com/in/chionabolu) 🌟  <p align="left">
-</p>
-- Visit [MutaSpace](https://afambuchi.com) to explore blogs, trainings, projects, and some of my photography portfolio 💡  
-
-**How to Learn More about Muta Space**
-## Connect with Us
-- **Website:** [MutaSpace](https://mutaspace.com)
-- **Community Discord:** [Join Us](https://discord.gg/aXNyBRK8)
-- **Email:** support@mutaspace.com
----
-
-## 🎨 **Hobbies & Passions**
-- 🎥 Photography & Videography 
-- 🎮 Gaming
-- 🌲 Exploring nature and hiking trails  
-- 🧘‍♀️ Finding balance through cooking, fitness and mindfulness  
+## 📫 Connect With Me
+**LinkedIn:** https://www.linkedin.com/in/chiagwu  
+**GitHub Portfolio:** https://github.com/afambuchi  
 
 ---
 
